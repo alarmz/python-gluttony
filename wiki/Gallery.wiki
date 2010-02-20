@@ -16,5 +16,5 @@ http://python-gluttony.googlecode.com/files/tg1.1.png
 [http://python-gluttony.googlecode.com/files/tg1.1.dot Download the Graphviz format]
 
 ==Plone==
-I'm sorry.  I don't know output the picture correctly.  I always get a strange output by dot layout engine.
+I'm sorry.  I don't know output the picture correctly.  I always get a strange output by dot layout engine. 
 [http://python-gluttony.googlecode.com/files/plone.dot Download the Graphviz format]
