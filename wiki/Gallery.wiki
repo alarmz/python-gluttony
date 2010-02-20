@@ -1,0 +1,20 @@
+#summary One-sentence summary of this page.
+#labels Featured,Gallery
+
+=Gallery=
+
+==Sprox0.6.7==
+http://python-gluttony.googlecode.com/files/sprox.png
+[http://python-gluttony.googlecode.com/files/sprox.dot Download the Graphviz format]
+
+==TurboGears2==
+http://python-gluttony.googlecode.com/files/tg2.png
+[http://python-gluttony.googlecode.com/files/tg2.dot Download the Graphviz format]
+
+==TurboGears1.1==
+http://python-gluttony.googlecode.com/files/tg1.1.png
+[http://python-gluttony.googlecode.com/files/tg1.1.dot Download the Graphviz format]
+
+==Plone==
+I'm sorry.  I don't know output the picture correctly.  I always get a strange output by dot layout engine.
+[http://python-gluttony.googlecode.com/files/plone.dot Download the Graphviz format]
