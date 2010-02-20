@@ -9,12 +9,16 @@ http://python-gluttony.googlecode.com/files/sprox.png
 [http://python-gluttony.googlecode.com/files/sprox.dot Download the Graphviz format]
 
 ==TurboGears2==
-http://python-gluttony.googlecode.com/files/tg2.png
+http://python-gluttony.googlecode.com/files/tg2_small.png
+
+[http://python-gluttony.googlecode.com/files/tg2.png See the original size]
 
 [http://python-gluttony.googlecode.com/files/tg2.dot Download the Graphviz format]
 
 ==TurboGears1.1==
-http://python-gluttony.googlecode.com/files/tg1.1.png
+http://python-gluttony.googlecode.com/files/tg1.1_small.png
+
+[http://python-gluttony.googlecode.com/files/tg1.1.png See the original size]
 
 [http://python-gluttony.googlecode.com/files/tg1.1.dot Download the Graphviz format]
 
