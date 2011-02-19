@@ -34,6 +34,13 @@ http://python-gluttony.googlecode.com/files/repoze.bfg_small.png
 
 [http://python-gluttony.googlecode.com/files/repoze.bfg.dot Download the Graphviz format]
 
+==Pyramid1.0==
+http://python-gluttony.googlecode.com/files/pyramid_small.png
+
+[http://python-gluttony.googlecode.com/files/pyramid.png See the original size]
+
+[http://python-gluttony.googlecode.com/files/pyramid.dot Download the Graphviz format]
+
 ==Plone==
 
 The most impressive one.  It is too huge to render, I adjust the size, so that it can be rendered.
