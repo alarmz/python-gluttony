@@ -22,6 +22,11 @@ http://python-gluttony.googlecode.com/files/tg1.1_small.png
 
 [http://python-gluttony.googlecode.com/files/tg1.1.dot Download the Graphviz format]
 
+==Flask0.6==
+http://python-gluttony.googlecode.com/files/flask.png
+
+[http://python-gluttony.googlecode.com/files/flask.dot Download the Graphviz format]
+
 ==Plone==
 
 The most impressive one.  It is too huge to render, I adjust the size, so that it can be rendered.
