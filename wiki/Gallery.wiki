@@ -47,6 +47,6 @@ The most impressive one.  It was too huge to render, I adjusted the size paramet
 
 http://python-gluttony.googlecode.com/files/plone_small.png
 
-[http://python-gluttony.googlecode.com/files/plone.png See the original size]
+[http://python-gluttony.googlecode.com/files/plone.png See the original size 19MB]
 
 [http://python-gluttony.googlecode.com/files/plone.dot Download the Graphviz format]
