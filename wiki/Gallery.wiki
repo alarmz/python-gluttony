@@ -28,7 +28,9 @@ http://python-gluttony.googlecode.com/files/flask.png
 [http://python-gluttony.googlecode.com/files/flask.dot Download the Graphviz format]
 
 ==Repoze.bfg1.3==
-http://python-gluttony.googlecode.com/files/repoze.bfg.png
+http://python-gluttony.googlecode.com/files/repoze.bfg_small.png
+
+[http://python-gluttony.googlecode.com/files/repoze.bfg.png See the original size]
 
 [http://python-gluttony.googlecode.com/files/repoze.bfg.dot Download the Graphviz format]
 
